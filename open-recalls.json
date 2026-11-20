@@ -104,7 +104,7 @@
   },
   {
    "source": "FDA",
-   "recall_number": "",
+   "recall_number": "EVENT-100248-4f7447",
    "firm": "Vitality Works, Inc",
    "product_description": "365 Whole Foods Market Standardized + Full Spectrum Blend Ashwagandha Capsules 120 count. Product Item Number: 3006661. 120 ct powder capsules in a 200cc bottle Take 1 capsule 2 times daily. Packaged in a 200cc white HDPE bottle with white cap. Whole Foods UPC: 099482520991. Label Address: Whole Foods Market, 550 Bowie Street, Austin, Texas 78703.",
    "brand": "365",
@@ -134,7 +134,7 @@
    "status": "Ongoing",
    "notice_type": "recall",
    "action": "Do not eat/use. Check the official notice; return to place of purchase or discard per firm instructions.",
-   "source_url": "https://api.fda.gov/food/enforcement.json?search=recall_number:\"\"",
+   "source_url": "https://api.fda.gov/food/enforcement.json?search=event_id:\"100248\"",
    "event_id": "100248",
    "first_seen": "2026-11-02",
    "last_seen": "2026-11-19"
